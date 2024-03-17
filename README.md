@@ -1,1 +1,2 @@
-# jazzVoc
+# aawra bot
+/start – starting bot
