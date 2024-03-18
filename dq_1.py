@@ -4,7 +4,7 @@ from pymongo import MongoClient
 
 # bot = BOT_TOKEN
 # Make NEW TOKEN for AAWRA
-bot = telebot.TeleBot("6704490108:AAGscrT9P2AadTN20eH7vRNcjPqL8WNVNtE")
+bot = telebot.TeleBot("6323610595:AAHa3Jj237fKuToxDBPIqVeMNB5wIVAiSHg")
 
 
 
